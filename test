@@ -1,4 +1,4 @@
 <?php
 echo 'this is test!';
-
+echo '使用了php测试结束';
 ?>
